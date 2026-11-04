@@ -30,8 +30,7 @@
 
 <sub>─── ✦ ───</sub>
 
-<p align="center"><em>“Em todo trabalho há proveito; meras palavras, porém, levam à penúria.”</em><br><sub>— Provérbios 14:23</sub></p>
+<p align="center"><em>“Em todo trabalho há proveito; meras palavras, porém, levam à penúria.”</em><br>
 
-<sub>⌁ faça mais, fale menos ⌁</sub>
 
 </div>
