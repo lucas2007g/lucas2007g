@@ -1,7 +1,6 @@
-
 <div align="center">
 
-### `lucas2007g`
+<img src="./assets/titulo.svg" width="700" alt="lucas2007g — título animado com digitação e gradiente verde" />
 
 <sub>um pequeno canto na internet.</sub>
 
@@ -19,11 +18,11 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" height="32" alt="Ícone do Python" />
+<img src="./assets/python.svg" width="48" alt="Python" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/lucide/book-open.svg?color=%239dbba8" width="32" height="32" alt="Ícone de estudos" />
+<img src="./assets/estudos.svg" width="48" alt="Estudos" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/lucide/dumbbell.svg?color=%239dbba8" width="32" height="32" alt="Ícone de academia" />
+<img src="./assets/academia.svg" width="48" alt="Academia" />
 
 <br>
 
@@ -33,12 +32,8 @@
 
 <sub>─── ✦ ───</sub>
 
-<br>
+<p align="center"><em>“Em todo trabalho há proveito; meras palavras, porém, levam à penúria.”</em><br><sub>— Provérbios 14:23</sub></p>
 
-> **“Em todo trabalho há proveito; meras palavras, porém, levam à penúria.”**
->
->
-
-<br>
+<sub>⌁ faça mais, fale menos ⌁</sub>
 
 </div>

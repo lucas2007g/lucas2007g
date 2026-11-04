@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="104" viewBox="0 0 700 104" role="img" aria-label="lucas2007g, texto animado em tons de verde">
+  <defs>
+    <linearGradient id="leaf" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4d9861"><animate attributeName="stop-color" values="#4d9861;#b9f5b2;#2f824e;#4d9861" dur="6s" repeatCount="indefinite" /></stop>
+      <stop offset="50%" stop-color="#adf5a9"><animate attributeName="stop-color" values="#adf5a9;#4cbd79;#d2ffd2;#adf5a9" dur="6s" repeatCount="indefinite" /></stop>
+      <stop offset="100%" stop-color="#397f57"><animate attributeName="stop-color" values="#397f57;#9be3a3;#509d69;#397f57" dur="6s" repeatCount="indefinite" /></stop>
+    </linearGradient>
+    <clipPath id="type">
+      <rect x="200" y="8" width="315.0" height="80">
+        <animate attributeName="width" calcMode="discrete" keyTimes="0.0000;0.1030;0.1360;0.1690;0.2020;0.2350;0.2680;0.3010;0.3340;0.3670;0.4000;0.7700;0.7870;0.8040;0.8210;0.8380;0.8550;0.8720;0.8890;0.9060;0.9230;0.9400;1.0000" values="0.0;31.5;63.0;94.5;126.0;157.5;189.0;220.5;252.0;283.5;315.0;315.0;283.5;252.0;220.5;189.0;157.5;126.0;94.5;63.0;31.5;0.0;0" dur="9s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="169" y="68" font-size="49" fill="#668f74" font-family="DejaVu Sans Mono,Consolas,Menlo,monospace">&gt;</text>
+  <text x="200" y="69" fill="url(#leaf)" font-size="50" font-weight="700" font-family="DejaVu Sans Mono,Consolas,Menlo,monospace" clip-path="url(#type)">lucas2007g</text>
+  <rect x="200" y="24" width="3" height="52" rx="1" fill="#a9ecb0">
+     <animate attributeName="x" calcMode="discrete" keyTimes="0.0000;0.1030;0.1360;0.1690;0.2020;0.2350;0.2680;0.3010;0.3340;0.3670;0.4000;0.7700;0.7870;0.8040;0.8210;0.8380;0.8550;0.8720;0.8890;0.9060;0.9230;0.9400;1.0000" values="200.0;231.5;263.0;294.5;326.0;357.5;389.0;420.5;452.0;483.5;515.0;515.0;483.5;452.0;420.5;389.0;357.5;326.0;294.5;263.0;231.5;200.0;200" dur="9s" repeatCount="indefinite" />
+     <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="0.9s" repeatCount="indefinite" />
+  </rect>
+  <path d="M172 86 H529" stroke="#3c7451" stroke-width="1" stroke-opacity=".5" />
+</svg>
