@@ -26,8 +26,6 @@
 
 <br>
 
-<sub><code>python</code> &nbsp; · &nbsp; <code>estudos</code> &nbsp; · &nbsp; <code>academia</code></sub>
-
 <br><br>
 
 <sub>─── ✦ ───</sub>
