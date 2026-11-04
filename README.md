@@ -1,35 +1,44 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A17251d%2C45%3A375a43%2C100%3A83b88c&height=185&section=header&text=Bem-vindo%21&fontColor=f6fff5&fontSize=42&fontAlignY=38&animation=fadeIn" alt="Cabeçalho verde com a mensagem Bem-vindo!" />
+### `lucas2007g`
+
+<sub>um pequeno canto na internet.</sub>
+
+</div>
+
+```text
+                 .--.
+                |o_o |           lucas2007g@github
+                |:_/ |           ----------------
+               //   \ \          > olá, visitante.
+              (|     | )         > fique à vontade.
+             /'\_   _/`\
+             \___)=(___/
+```
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" height="32" alt="Ícone do Python" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/lucide/book-open.svg?color=%239dbba8" width="32" height="32" alt="Ícone de estudos" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/lucide/dumbbell.svg?color=%239dbba8" width="32" height="32" alt="Ícone de academia" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3200&pause=1300&color=8FBC8F&center=true&vCenter=true&width=620&height=55&lines=Um+pequeno+cantinho+na+internet...%3BPode+entrar%2C+fique+%C3%A0+vontade%21%3B%E2%9C%A6+Aproveite+a+visita+%E2%9C%A6" alt="Mensagem animada de boas-vindas" />
+<sub><code>python</code> &nbsp; · &nbsp; <code>estudos</code> &nbsp; · &nbsp; <code>academia</code></sub>
 
 <br><br>
 
-### 🌿 Olá, visitante!
-
-*Nem tudo precisa de uma apresentação.*
-
-*Às vezes, um cantinho tranquilo já é suficiente.*
+<sub>─── ✦ ───</sub>
 
 <br>
 
-━━━━━━━━━━ ✦ ━━━━━━━━━━
+> **“Em todo trabalho há proveito; meras palavras, porém, levam à penúria.”**
+>
+>
 
 <br>
-
-`✧` &nbsp; **um pouco de calma** &nbsp; `✧`  
-`✦` &nbsp; **um pouco de curiosidade** &nbsp; `✦`  
-`✧` &nbsp; **e um toque de verde** &nbsp; `✧`
-
-<br>
-
-<sub>☁️ Obrigado pela visita. Volte quando quiser! ☁️</sub>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A17251d%2C45%3A375a43%2C100%3A83b88c&height=105&section=footer" alt="Rodapé decorativo verde" />
 
 </div>
